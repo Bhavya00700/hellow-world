@@ -1,2 +1,5 @@
+for learning perpos:-
 # hellow-world
-for learning perpos
+#include<sexy.h>
+i am bhavyesh.
+i love (*&^%).
